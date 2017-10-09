@@ -5,6 +5,6 @@ asociar el grupo adicional recursos al usario pablo
 asociar el grupo adicional contable al usuario juan
 dar como grupo adicional recursos a juan
 crear una carpeta llamada recursos en/
-cambiar los permisos de duieño(recurso) y grupo(pablo) a /recursos
+cambiar los permisos de duieño(recu) y grupo(pablo) a /recursos
 cambiar los permisos para que el dueño pueda(escribir,leer y rejercutar), grupo (escribir,leer) y
 otro(nada).
